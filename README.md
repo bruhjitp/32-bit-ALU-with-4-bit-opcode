@@ -1,0 +1,1 @@
+The ALU supports 32 bit signed numbers and allows 16 operations wrt its 4 bit opcode. The design also has a NZC register to denote flag status post each operation. The project will we developed further to a processor level. Stay tuned on my page.
